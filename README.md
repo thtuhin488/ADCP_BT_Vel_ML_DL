@@ -79,7 +79,7 @@ All models are trained inside a StandardScaler pipeline with 5-fold quantile-str
   source .venv/bin/activate
   ```
 
-2) EnvInstall deps
+2) Install deps
 
 ```bash 
 pip install -U pip
