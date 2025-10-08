@@ -1,7 +1,12 @@
 # ADCP_BT_Vl_ML_DL
 
 This repository contains the processed ADCP datasets preprocessing, and ML/DL notebooks to predict BT_Vel from signal/quality features
-
+> **Quick access**
+>
+> - **Open in VS Code for the web:** https://vscode.dev/github/thtuhin488/ADCP_BT_Vl_ML_DL  
+> - **Open on GitHub.dev:** https://github.dev/thtuhin488/ADCP_BT_Vl_ML_DL  
+>
+> In VS Code for the web, open the **Outline** panel (left sidebar) to navigate headings and fold sections, similar to desktop VS Code.
 ## Contents
 
 - **Data/**
