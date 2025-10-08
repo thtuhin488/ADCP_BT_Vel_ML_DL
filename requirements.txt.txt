@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+
+tensorflow>=2.12
+keras-tuner
+
+xgboost
+lightgbm
+catboost
